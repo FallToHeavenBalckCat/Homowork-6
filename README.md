@@ -1,2 +1,2 @@
 # Homowork-6
-第六次作业
+本周继续学习了搜索与图论：多远汇最短路FLoyd算法，最小生成树Prim算 法，以及时间复杂度为O(mlogm)的最小生成树算法Kruskal算法，以及染色法判定二 分图，和匈牙利算法，值得一提的是匈牙利算法的时间复杂度虽然理论上是 O(mn），但是实际上的表现要远优于O(mn)。另外通过两道题分别复习了双指针算 法和哈希表。此外，开始学习SpringBoot框架课，学习了java语法的变量，表达式， 判断语句，循环语句和数组，通过相关题目的练习巩固了java语法，我个人认为有C+ +的基础之后再学习java是比较简单的，因为两者大部分的语法都相同的，另外，了 解了有关java的一些知识，如：JDK、JRE、JVM的关系：JDK：Java Development Kit，Java开发工具包JRE: Java Runtime Environment，Java运行环境JVM：Java irtual Machine，Java虚拟机JDK包含JRE，JRE包含JVMJDK版本选择目前JDK1.8 （也叫JDK8，注意不是JDK18）用得最多。Java代码的编译运行流程：1.将Java源码编译成Java字节码。2.使用JVM将Java字节码转化成机器码。JVM作用：跨平台、内存管理、安全。JSE、JEE、JME的区别:JSE: Java Standard Edition，标准版：JEE：Java Enterprise Edition，企业版,JME: Java Mirco Edition，移动版Spring是JEE的轻量级替代品SpringBoot是Spring + 自动化配置。收获良多，下周继续学习第四章数论与Spring框架课。
